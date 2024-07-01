@@ -615,9 +615,9 @@ form .btn3{
 nav .fa-solid{
     display:none;
 }
-@media only screen and (max-width: 500px){
+@media only screen and (max-width: 600px){
     #header{
-        background-image: url(images/back3.png)
+        background-image: url(images/back_phn2.png)
     }
     .header_txt{
         margin-top: 55%;
